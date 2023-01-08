@@ -128,13 +128,13 @@
 /* gradient */
 
 .gradient {
-    background: url("../images/gradient2.png");
+    background: url("/gradient.png");
     width: 1140px;
     height: 300px;
     margin: 130px 230px;
 }
 
-.text-gradient {}
+
 
 .gradient-title {
     color: #FFFFFF;
