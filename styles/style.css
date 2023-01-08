@@ -128,7 +128,7 @@
 /* gradient */
 
 .gradient {
-    background: url("/images/gradient2.png");
+    background: url("../images/gradient2.png");
     width: 1140px;
     height: 300px;
     margin: 130px 230px;
