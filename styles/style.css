@@ -111,10 +111,10 @@
     font-weight: 700;
     font-size: 30px;
     line-height: 35px;
-    padding-top:16px;
-    padding-bottom:16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
     text-align: center;
-    
+
 }
 
 .plan-description {
@@ -123,6 +123,112 @@
     line-height: 29px;
     text-align: center;
     color: #737272;
-    
+}
 
+/* gradient */
+
+.gradient {
+    background: url("/images/gradient2.png");
+    width: 1140px;
+    height: 300px;
+    margin: 130px 230px;
+}
+
+.text-gradient {}
+
+.gradient-title {
+    color: #FFFFFF;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 47px;
+    padding-bottom: 24px;
+    padding-left: 64px;
+    padding-top: 59px;
+}
+
+.btn-gradient {
+    width: 160px;
+    height: 64px;
+    margin-left: 64px;
+    margin-bottom: 59px;
+    border-radius: 5px;
+    border: none;
+}
+
+.button-text {
+
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+
+}
+
+/* footer */
+.last-part {
+    background: #151414;
+    width: 1600px;
+    height: 577px;
+    display: flex;
+}
+
+.full-statement {
+    padding: 130px 230px
+}
+
+.heading {
+    color: #F8F8F8;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+}
+
+.paragraph {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    padding: 16px 4px;
+}
+
+.mail {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    padding-bottom: 16px;
+
+}
+
+.phone {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    padding-bottom: 16px;
+    color: #FFFFFF;
+}
+
+.full-statement a {
+    text-decoration: none;
+
+}
+
+.form-part {
+    padding: 130px 230px;
+}
+
+.subscribe-title {
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    padding-bottom: 31px;
+}
+
+.form-inner {
+    width: 325px;
+    height: 64px;
+    left: 1046px;
+    top: 2842.26px;
 }
